@@ -1,0 +1,32 @@
+# Node
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# Environment files (secrets)
+.env
+.env.local
+.env.*.local
+
+# Build / output
+dist/
+build/
+out/
+*.min.css
+
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Dependency directories
+jspm_packages/
+
+# Misc
+coverage/
+*.local
